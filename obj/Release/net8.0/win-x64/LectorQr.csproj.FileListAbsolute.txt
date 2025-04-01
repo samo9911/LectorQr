@@ -212,3 +212,4 @@ C:\Users\jos90\source\repos\LectorQr\obj\Release\net8.0\win-x64\refint\LectorQr.
 C:\Users\jos90\source\repos\LectorQr\obj\Release\net8.0\win-x64\LectorQr.pdb
 C:\Users\jos90\source\repos\LectorQr\obj\Release\net8.0\win-x64\LectorQr.genruntimeconfig.cache
 C:\Users\jos90\source\repos\LectorQr\obj\Release\net8.0\win-x64\ref\LectorQr.dll
+C:\Users\jos90\source\repos\LectorQr\obj\Release\net8.0\win-x64\LectorQr.sourcelink.json

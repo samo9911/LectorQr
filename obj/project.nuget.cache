@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ndQ5zr0AIC8=",
+  "dgSpecHash": "/BCbxXaZhmI=",
   "success": true,
   "projectFilePath": "C:\\Users\\jos90\\source\\repos\\LectorQr\\LectorQr.csproj",
   "expectedPackageFiles": [
@@ -21,7 +21,17 @@
     "C:\\Users\\jos90\\.nuget\\packages\\system.drawing.common\\8.0.14\\system.drawing.common.8.0.14.nupkg.sha512",
     "C:\\Users\\jos90\\.nuget\\packages\\system.security.cryptography.pkcs\\8.0.1\\system.security.cryptography.pkcs.8.0.1.nupkg.sha512",
     "C:\\Users\\jos90\\.nuget\\packages\\system.text.encoding.codepages\\8.0.0\\system.text.encoding.codepages.8.0.0.nupkg.sha512",
-    "C:\\Users\\jos90\\.nuget\\packages\\zxing.net\\0.16.10\\zxing.net.0.16.10.nupkg.sha512"
+    "C:\\Users\\jos90\\.nuget\\packages\\zxing.net\\0.16.10\\zxing.net.0.16.10.nupkg.sha512",
+    "C:\\Users\\jos90\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.14\\microsoft.netcore.app.runtime.win-x64.8.0.14.nupkg.sha512",
+    "C:\\Users\\jos90\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.14\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.14.nupkg.sha512",
+    "C:\\Users\\jos90\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.14\\microsoft.aspnetcore.app.runtime.win-x64.8.0.14.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error al obtener los datos de vulnerabilidad del paquete: La descarga de \"https://api.nuget.org/v3-vulnerabilities/2025.03.26.23.24.54/vulnerability.base.json\" agotó el tiempo de espera porque no se recibió ningún dato durante 60000 ms."
+    }
+  ]
 }

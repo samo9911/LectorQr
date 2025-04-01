@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LectorQr")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d36347111a627edd759b9aef890196542bad211")]
 [assembly: System.Reflection.AssemblyProductAttribute("LectorQr")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LectorQr")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
